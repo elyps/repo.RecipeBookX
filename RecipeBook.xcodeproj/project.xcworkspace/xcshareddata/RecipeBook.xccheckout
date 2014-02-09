@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F0397DD2-41C2-44F5-A0AB-045B4118302D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RecipeBook</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0B0B2795-0587-46B7-A369-BB518543544E</key>
+		<string>https://github.com/elyps/repo.RecipeBookX</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>branches/beta/RecipeBook.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0B0B2795-0587-46B7-A369-BB518543544E</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>0B0B2795-0587-46B7-A369-BB518543544E</key>
+		<string>https://github.com/elyps/repo.RecipeBookX</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/elyps/repo.RecipeBookX/branches/beta/RecipeBook.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0B0B2795-0587-46B7-A369-BB518543544E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0B0B2795-0587-46B7-A369-BB518543544E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>repo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
